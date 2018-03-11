@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">مزاد جو</string>
+    <string name="hint_password">كلمة السر</string>
+    <string name="hint_name">الإسم</string>
+    <string name="hint_mobile">الجوال</string>
+    <string name="hint_email">البريد الاإلكتروني</string>
+    <string name="btn_login">الولوج</string>
+    <string name="btn_register">مستخدم جديد</string>
+    <string name="btn_link_to_register">لست عضوا، برجاء التسجيل</string>
+    <string name="btn_link_to_login">مستخدم موجود بالفعل</string>
+    <string name="welcome">أهلا و سهلا</string>
+    <string name="btn_logout">الخروج</string>
+    <string name="name">الإسم كاملا</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">الشاشة الرئيسية</string>
+    <string name="nav_auction">Auction List</string>
+    <string name="nav_cars">معرض السيارات</string>
+    <string name="nav_carsbid">مزاد السيارات</string>
+    <string name="nav_properties">معرض العقارات</string>
+    <string name="nav_propertiesbid">مزاد العقارات</string>
+    <string name="nav_login">تسجيل دخول</string>
+    <string name="nav_about_us">شاشة المسؤول</string>
+    <string name="facebook_app_id">324165334751376</string>
+    <string name="fb_login_protocol_scheme">fb324165334751376</string>
+    <string name="nav_item">عرض سيارات</string>
+    <string name="nav_itemcar">عرض عقارات</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="radio_property">Property</string>
+    <string name="radio_car">Car</string>
+    <string name="image1select">الصورة الأولى</string>
+    <string name="image2select">الصورة الثانية</string>
+    <string name="image3select">الصورة الثالثة</string>
+    <string name="uploadbtn">تحميل السلعة</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="itemid">رقم:</string>
+    <string name="itemprice">السعر:</string>
+    <string name="itemdate">تاريخ المزاد:</string>
+    <string name="itemtime">وقت المزاد:</string>
+    <string name="itemstatus">الوقت المتبقي:</string>
+    <string name="itemtype">النوع:</string>
+
+    <string name="itemnamee">المالك:</string>
+    <string name="itemdescriptione">الوصف:</string>
+    <string name="itemstatuse">الحالة:</string>
+    <string name="itemauctione">المزاد:</string>
+    <string name="itemwine">الأعلى سعر:</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>الشاشة الرئيسية</item>
+        <item>معرض السيارات</item>
+        <item>معرض العقارات</item>
+        <item>مزايدة السيارات</item>
+        <item>مزايدة العقارات</item>
+
+    </string-array>
+    <string name="item_description">توصيف السلعة</string>
+    <string name="radio_lands">الأراضي</string>
+    <string name="radio_FlatsVillas">شقق و فيلات</string>
+    <string name="Model">الموديل</string>
+    <string name="Make">النوع</string>
+    <string name="Year">سنة الصنع</string>
+    <string name="Automatic">أوتوماتيك</string>
+    <string name="Manual">عادي</string>
+    <string name="Waranty">الضمان</string>
+    <string name="engine_size">سعة المحرك</string>
+    <string name="Millage">عدد الأميال</string>
+    <string name="Bidding_Window">شاشة المزايدة</string>
+    <string name="Bid">مزايدة</string>
+    <string name="search">بحث .....</string>
+
+
+    <string name="activity_title_about_us">عن البرنامج</string>
+    <string name="activity_title_Lang">اللغة</string>
+    <string name="activity_title_Contact">اتصل بنا</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">اضغط لمشاهدة القائمة</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="lang">عن البرنامج</string>
+    <string name="setlang">اللغة</string>
+    <string name="channel_name">اهلا</string>
+    <string name="channel_description">اهلا و سهلا</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="article_title">سياسة الشروط و الاحكام:</string>
+    <string name="article_text">
+     1-باستخدام هذا التطبيق، فإنك توافق على الالتزام بهذه الشروط والأحكام، وجميع القوانين واللوائح المعمول بها، وتوافق على أن تكون مسؤولا عن الامتثال لأية قوانين المحلية المعمول بها. إذا كنت لا تتفق مع أي من هذه الشروط، لا يحق لك استخدام هذا التطبيق. المواد الواردة في هذا الطلب محمية بموجب حقوق النشر وقانون العلامات التجارية .
+
+        \
+
+
+2-يكون مشتري السيارة مسؤولا عن الاتصال و تخليص كل الأوراق المتعلقة بالسيارة كتسجيل و خلافه. مزادجو غير مسئول عن أي تأخير أو القضايا المتعلقة بإيصال السيارة .
+
+        \
+
+3-مزادجو غير مسئول عن أي أضرار أو خسائر للمركبة التي قد تحدث قبل أو أثناء عملية التسليم .
+
+        \
+
+4-يجب استكمال دفع وتحصيل السيارات خلال 24 ساعة بمجرد انتهاء المزاد و إلا كان من حق مزادجو تحويل عملية البيع لشارٍ آخر .
+\
+5-يجب على الشاري عدم القيام بأي إصلاح أو تعديل في السيارة ما لم يكن قد تم الانتهاء من وثائق السيارة وكان لديه أوراق تسجيل تحمل اسمه .
+\
+6-إغلاق المزاد على أعلى سعر للمشتري لا يعني تأكيد عملية البيع أو الإلتزام بها ، وبيع السيارة بسعر إغلاق المزاد يخضع لموافقة المُعلِن .
+\
+7-حالة رسوب المركبة في فحص المرور، تعتبر الصفقة او عملية البيع قد ألغيت و على رد أي مبالغ مالية قد يكون الشاري قد قام بدفعها للبائع .
+\
+8-الأسعار المعروضة للبائعين لا تخضع لأية رسوم أو استقطاعات و يضمن مزادجو أن يتم دفعها بالكامل للبائعين، تحتفظ مزادجو بالحق في تحمل المشترين أي مصاريف من أجل المشاركة في المزاد أو على عقود متفق عليه أو السيارة المشتراه في ما لا يزيد عن 1-5 في المئة من سعر الشراء .
+\
+9-ما لم يطلب رسميا من قبل البائع، وتحتفظ مزادجو بالحق في استخدام أي من الصور التي يتم تحميلها على التطبيق في نشاطات الإعلانات في اي من طرق او وسائل الإعلان المختلفة مثل وسائل الاعلام الاجتماعية او غيرها لغرض التسويق .
+\
+10-مزادجو هو مجرد وسيط لبيع السيارات ولا يتحمل أي مسؤولية تجاه السيارات المعلن عنها ولم يقم بفحصها فنيا .
+\
+11-جميع أسعار افتتاح المزادات لا تعتبر أسعار شراء.
+\
+12- يلتزم البائع أن يظهر و بوضوح حالة السيارة من خلال الصور المرفقة بالإعلان و كذلك الفحص الفني، ويجب أن تتضمن الصور، الأضرار، والخدوش والطعجات و / أو أي أضرار أخرى قد تؤثر على قرار المشترين أو قيمة السيارة. أي محاولة لإخفاء أي ضرر أو المعلومات التي قد تؤثر على القيمة السوقية للمركبة يترتب عليه إلغاء الصفقة في أي مرحلة أو وقت، و يجوز اتخاذ الإجراءات القانونية ضد البائع إذا لزم الأمر .
+\
+13- بعد إغلاق المزاد، سعر الإغلاق لا تحسب صفقة مؤكدة لما يحتفظ به المشتري من حق الفحص البصري للسيارة فيما لا يزيد عن 24 ساعة عمل من تاريخ انتهاء المزاد. في حالة عدم وجود اي اختلاف او تباين عن الصور المرفقة بالإعلان ، تكون عملية البيع مؤكدة و مضمونة .
+\
+14-يحتفظ مزادجو بالحق في شطب او إيقاف لفترة او دائم لأي مشترك دون سابق إنذار في حالة عدم الإلتزام بالتعليمات.
+ </string>.
+
+</resources>

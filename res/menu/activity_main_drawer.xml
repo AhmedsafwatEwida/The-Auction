@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_carsbid"
+            android:icon="@drawable/iconcarbid"
+            android:title="@string/nav_carsbid" />
+        <item
+            android:id="@+id/nav_propbid"
+            android:icon="@drawable/iconproperty"
+            android:title="@string/nav_propertiesbid" />
+
+
+        <item
+            android:id="@+id/nav_sell"
+            android:icon="@drawable/iconcar"
+            android:title="@string/nav_item" />
+        <item
+            android:id="@+id/nav_sellcar"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/nav_itemcar" />
+
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="@string/nav_login" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="@string/nav_about_us" />
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:title="@string/activity_title_Contact" />
+            <item
+                android:id="@+id/nav_lang"
+                android:title="@string/lang" />
+            <item
+                android:id="@+id/set_lang"
+                android:title="@string/setlang" />
+        </menu>
+    </item>
+
+</menu>

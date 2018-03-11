@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">MazadJO</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="hint_mobile">Mobile</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_auction">Auction List</string>
+    <string name="nav_cars">Cars-Show Room</string>
+    <string name="nav_carsbid">Cars-Bidding</string>
+    <string name="nav_properties">Properties-Show Room</string>
+    <string name="nav_propertiesbid">Properties-Bidding</string>
+    <string name="nav_login">Register/Login</string>
+    <string name="nav_about_us">Admin-Pannel</string>
+    <string name="facebook_app_id">324165334751376</string>
+    <string name="fb_login_protocol_scheme">fb324165334751376</string>
+    <string name="nav_item">Advertise Item(Cars)</string>
+    <string name="nav_itemcar">Advertise Item(Property)</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="radio_property">Property</string>
+    <string name="radio_car">Car</string>
+    <string name="image1select">Image1 Select</string>
+    <string name="image2select">Image2 Select</string>
+    <string name="image3select">Image3 Select</string>
+    <string name="uploadbtn">Upload Item</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="itemid">Item Code#:</string>
+    <string name="itemprice">Price:</string>
+    <string name="itemdate">Bid Date:</string>
+    <string name="itemtime">Bid Time:</string>
+    <string name="itemstatus">Elapsed:</string>
+    <string name="itemtype">Type:</string>
+    <string name="itemnamee">Name:</string>
+    <string name="itemdescriptione">Description:</string>
+    <string name="itemstatuse">Status:</string>
+    <string name="itemauctione">Auction:</string>
+    <string name="itemwine">Win:</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Cars Item</item>
+        <item>Properties</item>
+        <item>Cars Bid</item>
+        <item>Properties Bid</item>
+
+    </string-array>
+<string name="item_description">Item Description</string>
+    <string name="radio_lands">Lands</string>
+    <string name="radio_FlatsVillas">Flats/Villas</string>
+    <string name="Model">Model</string>
+    <string name="Make">Make</string>
+    <string name="Year">Year</string>
+    <string name="Automatic">Automatic</string>
+    <string name="Manual">Manual</string>
+    <string name="Waranty">Waranty</string>
+    <string name="engine_size">Engine Size</string>
+    <string name="Millage">Millage</string>
+    <string name="Bidding_Window">Auction Window</string>
+    <string name="Bid">Bid</string>
+    <string name="search">Search.......</string>
+
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_Lang">Language</string>
+    <string name="activity_title_Contact">Contact US</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Press to Show Menu</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="lang">About Us</string>
+    <string name="setlang">Language</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="channel_name">Hello</string>
+    <string name="channel_description">Hello2</string>
+    <string name="article_title">Policy</string>
+    <string name="article_text">
+
+         1-By using this application, you are agreeing to be bound by these Terms and Conditions of Use, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using this application. The materials contained in this application are protected by applicable copyright and trade mark law.\n
+
+        2-The buyer of a vehicle will be responsible for contacting and clearing any paperwork related to the vehicle.\n
+
+                3-MazadJo is not responsible or liable for any delays or issues related to the delivery of the vehicle.\n
+
+                4-MazadJo is not responsible for any damages or loss to vehicle that may happen before or during the process of delivery.\n
+
+        5-You must complete the payment and collect the car within 24 hours once the auction ends.\n
+
+                6-Do not fix or modify the car unless car documents has been completed and you have a registration under your name.\n
+
+        7-Closing the auction at a "buyer's" highest price does not mean that deal is confirmed , the sale of the vehicle for the closing price is subject to providers approval.\n
+
+                8-Displayed prices for sellers are not subject to any charges or deductions and guaranteed to be fully paid to sellers, MazadJo reserves the right to charge buyers from for participation in its auction either on agreed contracts or pet vehicle in no more than 1 to 5 percent of buying prices.\n
+
+                9-Unless officially requested by seller, MazadJo reserves the right to use any of uploaded pictures on as is condition for any further advertising or social media adverts for the purpose of marketing.\n
+
+                10-MazadJo is just an intermediate for advertising vehicles and does not hold any responsibility towards the advertised vehicles nor their condition as they were never inspected or technically checked by Mazadoha.\n
+
+                11-All auctions opening prices are not considered as buying prices.\n
+
+                12-The seller is obliged to clearly show through photos the condition of his car, photos shall include and damages, scratches, dents and/or any other damages that may effect the buyers decision or the vehicle value. Attempt to hide any damage or information that shall effect the vehicle market value shall result in the cancellation of the deal at any level or time. Legal actions shall be taken against seller if required.\n
+
+                13-After auction is closed, the closing price is not counted as guaranteed deal as the buyer reserves the right to optically inspect the vehicle in not more than 24 working hours from auction closing date. Unless any variance in condition , deal is confirmed.\n
+
+                14-In case vehicle has failed in the traffic Dept passing , the deal shall be counted as cancelled and seller has to return any down/full payments done by the buyer.\n
+
+                15-MazadJo reserves the right to block , hold or delete any user of its application without prior notice incase auction roles and regulations are not followed by user..\n
+    </string>.
+</resources>
